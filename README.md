@@ -6,5 +6,8 @@
 ### References
 - Spacy stopwords collection: https://github.com/explosion/spaCy/blob/master/spacy/lang/en/stop_words.py
 
+### To modify requirements.txt (PLEASE MAKE SURE THIS IS ONLY DONE ON A FRESH PYTHON ENVIRONMENT FOR THIS PROJECT)
+- `pip freeze -l > requirements.txt`
+
 ### Getting started
-1) Run ./setup.sh
+1) Run `./setup.sh`
