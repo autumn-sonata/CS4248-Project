@@ -3,3 +3,5 @@
 /*.csv
 /features/*.csv
 /*.npz
+/LogisticRegressionAnalyzer.ipynb
+/models
