@@ -1,10 +1,8 @@
 /raw_data_LUN
 /raw_data
-/*.csv
+*.csv
 /features/*.csv
-/*.npz
+*.npz
+*.pkl
 /LogisticRegressionAnalyzer.ipynb
 /models
-/LR-full-feature-set/*.npz
-/LR-full-feature-set/*.csv
-/LR-full-feature-set/*.pkl
