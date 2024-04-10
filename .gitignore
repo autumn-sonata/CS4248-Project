@@ -5,4 +5,4 @@
 *.npz
 *.pkl
 /LogisticRegressionAnalyzer.ipynb
-/models
+/DistilBERT-*/distilbert_*
