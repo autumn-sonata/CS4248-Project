@@ -1,8 +1,6 @@
 /raw_data_LUN
 /raw_data
 *.csv
-/features/*.csv
 *.npz
 *.pkl
-/LogisticRegressionAnalyzer.ipynb
 /DistilBERT-*/distilbert_*
