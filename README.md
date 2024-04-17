@@ -2,7 +2,10 @@
 
 ### Datasets
 1) raw_data_LUN: Labeled Unreliable News Dataset: https://github.com/BUPT-GAMMA/CompareNet_FakeNewsDetection/releases/tag/dataset
-2) Test dataset: https://github.com/several27/FakeNewsCorpus
+2) Test dataset: 
+   1) https://huggingface.co/datasets/andyP/fake_news_en_opensources
+   2) https://github.com/leereak/propaganda-detection
+   3) https://huggingface.co/datasets/liar
 
 ### References
 - Spacy stopwords collection: https://github.com/explosion/spaCy/blob/master/spacy/lang/en/stop_words.py
